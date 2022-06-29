@@ -1,0 +1,21 @@
+body {
+      font-family: 'Titan One', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(../images/background.jpg);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1, h2, h3, h4, p {
+  -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fff;
+}
+
+th, tr {
+  -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+}
